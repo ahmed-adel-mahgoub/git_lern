@@ -1,0 +1,6 @@
+print("ahmed")
+print("medo")
+print("medo")
+print("medo")
+print("medo")
+print("medo")
